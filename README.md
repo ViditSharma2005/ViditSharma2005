@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey Builders! 👋
 
 I'm **Vidit**, a student and builder based in **Greater Noida, India**.
 
