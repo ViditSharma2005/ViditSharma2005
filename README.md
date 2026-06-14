@@ -66,7 +66,6 @@ A daily discipline of solving algorithmic problems — covering arrays, strings,
 ## ⚡ Fun Facts
 
 - Chai over everything ☕
-- Anime fan — always have a recommendation ready
 - Placement prep is the current main quest
 - Believes clean code > clever code
 
