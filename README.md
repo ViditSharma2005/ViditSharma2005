@@ -1,4 +1,4 @@
-# Hey Builders! 👋
+# Hey Builders!
 
 I'm **Vidit**, a student and builder based in **Greater Noida, India**.
 
@@ -44,14 +44,14 @@ If there's a problem to solve or a system to build, I'm probably already thinkin
 
 ---
 
-## ⭐ Featured Project
+## Featured Project
 
 **LeetCode Streak**
 A daily discipline of solving algorithmic problems — covering arrays, strings, trees, bit manipulation, and more in C++.
 
 ---
 
-## 📊 LeetCode Stats
+## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vidit_sh?theme=dark&font=Karma&ext=null)
 
@@ -63,27 +63,4 @@ A daily discipline of solving algorithmic problems — covering arrays, strings,
 
 ---
 
-## ⚡ Fun Facts
-
-- Chai over everything ☕
-- Placement prep is the current main quest
-- Believes clean code > clever code
-
----
-
 *Currently open to opportunities, collaborations, and interesting problems. Let's connect.*
-
-<!--
-**ViditSharma2005/ViditSharma2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
