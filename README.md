@@ -70,7 +70,7 @@ A daily discipline of solving algorithmic problems, covering arrays, strings, tr
 </div>
 
 ##
-<img src="./assets/binary_donut.gif" alt="Binary Donut" width="480" />
+<img src="./assets/binary_donut.gif" alt="Binary Donut" width="480" align="center"/>
 
 
 ## Connect
